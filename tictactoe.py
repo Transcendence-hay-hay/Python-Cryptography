@@ -3,7 +3,7 @@ from os import system
 from time import sleep
 from random import choice
 
-# This will be the list that stores all the input values of the user (Ignore the '0' element of the array)
+# This will be the list that stores all the values of the board (Ignore the '0' element of the array)
 board = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
 # Just a function to print out some information while starting the game
